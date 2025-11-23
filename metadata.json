@@ -1,0 +1,5 @@
+{
+  "name": "FuzzyLogic TempController",
+  "description": "A smart room temperature controller using Fuzzy Logic to adjust fan speeds based on temperature and occupancy levels, featuring real-time 3D surface visualization.",
+  "requestFramePermissions": []
+}
